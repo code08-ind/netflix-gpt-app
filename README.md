@@ -1,4 +1,4 @@
-Start From 03:20:00 Mins.
+Start From 02:30:00 Mins.
 
 # React + Vite
 
